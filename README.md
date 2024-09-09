@@ -19,39 +19,25 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
 ## Layout
 
 Imagem na web do app
-
-[Layout](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/fetch/flask-app/static/web%20app%201.png)
-
-
-[Desenvolvendo](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/fetch/flask-app/static/web%20app%202.png)
-
-
-[Concluído](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/fetch/flask-app/static/web%20app%203.png)
+![Layout] img = Imagem.open(![layoutapp](<static/web app 1.png>))
+![Desenvolvendo] img = Imagem.open(![desenvolvendoapp](<static/web app 2.png>))
+![Concluído] img = Imagem.open(![concluidoapp](<static/web app 3.png>))
 
 
 ## Como Contribuir
 
 ### Pré-Requisitos
 
-- [Python 3.12.6](https://www.python.org/downloads/)
-- [Visual Studio Code](https://code.visualstudio.com/Download) ou outro a seu critério
-- [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+- [Python 3.12.6](https://www.python.org/downloads/),
+- [Visual Studio Code](https://code.visualstudio.com/Download),
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/).
 
 
-1. Faça um **fork** do repositório.
-   
-2. Crie uma **nova branch** com a sua feature: *git checkout -b "minha-feature"*
-  ![image](https://github.com/user-attachments/assets/3e7b17e5-d7a8-4940-9c82-44f555c3e1c3)
-
-3. Faça as alterações necessárias no código
-
-4. Faça um commit das suas alterações: *git commit -m 'Adicionando as alterações'*.
-  ![image](https://github.com/user-attachments/assets/d0beff3e-ba5d-4d70-ad94-1c9660e13389)
-
-5. Faça um **push** para a branch: *git push origin minha-feature*
-  ![image](https://github.com/user-attachments/assets/3ec95b0b-bdb7-4948-a72b-7c31e03e08d5)
-
-6. Abra um **pull request** para o repositório original, descrevendo suas modificações
+1. Faça um **fork** do repostirório.
+2. Crie uma **nova branch** com a sua feature: *git checkout -b "minha-feature"*.
+3. Faça um commit das suas alterações: *git commit -m 'Adicionando uma nova feature'*.
+4. Faça um **push** para a branch: *git push origin minha-feauture*.
+5. Abra um **pull request** explicando suas modificações.
 
   ## **_Detalhes importantes:_**
   >Certifique-se de que o seu código está funcionando corretamente antes de abrir um pull request.
