@@ -14,17 +14,14 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
 - Python 3.12.6: Linguagem de programação utilizada para desenvolver o projeto.
 - Visual Studio Code: Interpretador do Python (com  uso de extensão no VsCode).
 
-
 ## Layout
-
-
 
 
 ## Como Contribuir
 
 ### Pré-Requisitos
-[Python 3.12.6](https://www.python.org/downloads/),
-[Visual Studio Code](https://code.visualstudio.com/Download),
+- [Python 3.12.6](https://www.python.org/downloads/),
+- [Visual Studio Code](https://code.visualstudio.com/Download),
 
 
 1. Faça um **fork** do repostirório.
@@ -34,12 +31,12 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
 4. Faça um **push** para a branch: *git push origin minha-feauture*.
 5. Abra um **pull request** explicando suas modifiações.
 
-  ## **_Detalhes importantes:_**
+## **_Detalhes importantes:_**
   >Certifique-se de que o seu código está funcionando corretamente antes de abrir um pull request.
   >Siga os padrões de commit para garantir que as mensagens sejam claras e que facilitam o entendimento das alterações.
-   
-   # Licença
+
+# Licença
    Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/main/LICENSE) para obter mais informações.
   
-  # Diretrizes para contribuir
-  1. Siga as diretrizes do [CONTRIBUTING.md]
+# Diretrizes para contribuir
+1. Siga as diretrizes do [CONTRIBUTING.md](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/feat/docs/docs/CONTRIBUTING.md).
