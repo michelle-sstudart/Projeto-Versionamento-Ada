@@ -24,9 +24,9 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
 
 ### Pré-Requisitos
 
-[Python 3.12.6](https://www.python.org/downloads/),
-[Visual Studio Code](https://code.visualstudio.com/Download),
-[Flask](https://flask.palletsprojects.com/en/3.0.x/).
+- [Python 3.12.6](https://www.python.org/downloads/),
+- [Visual Studio Code](https://code.visualstudio.com/Download),
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/).
 
 
 1. Faça um **fork** do repostirório.
