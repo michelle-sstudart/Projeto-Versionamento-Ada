@@ -39,7 +39,7 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
   >Siga os padrões de commit para garantir que as mensagens sejam claras e que facilitam o entendimento das alterações.
    
    # Licença
-   Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/main/LICENSE)
+   Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/main/LICENSE) para obter mais informações.
   
   # Diretrizes para contribuir
   1. Siga as diretrizes do [CONTRIBUTING.md]
