@@ -11,6 +11,18 @@ def coletar_informacoes_pet():
     # Coleta do endereço do tutor e pet
     endereco = input("Endereço: ")
 
+    # Coleta do número do contato do Tutor
+    while True:
+        try:
+            numero_tutor = input("Número do contato do Tutor (somente números): ")
+        # Validação básica: verifica se o núero contém apenas digitos
+            if numero_tutor.isdigit():
+                break
+            else:
+                print("Por favor, insira apenas números para o contato: ")
+        except ValueError:
+            print("Ocorreu um erro. Tente novamente:")
+             
     # Coleta da idade do pet, garantindo que seja um número inteiro
     while True:
         try:
@@ -34,9 +46,10 @@ def coletar_informacoes_pet():
             print("Por favor, insira um número válido para o peso.")
 
     # Exibindo as informações coletadas
-    print("\nInformações do pet e do tutor:")
+    print("\nInformações do pet e do tutor")
     print(f"Nome do tutor: {nome_tutor}")
     print(f"Endereço: {endereco} ")
+    print(f"Número do Contato do tutor: {numero_tutor}")
     print(f"Nome do pet: {nome_pet}")
     print(f"Idade do pet: {idade} anos")
     print(f"Peso do pet: {peso} kg")
