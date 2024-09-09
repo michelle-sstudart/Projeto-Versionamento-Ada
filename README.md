@@ -17,7 +17,10 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
 
 ## Layout
 
-
+Imagem na web do app
+![Layout](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/fetch/flask-app/static/web%20app%201.png)
+![Desenvolvendo](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/fetch/flask-app/static/web%20app%202.png)
+![Concluído](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/fetch/flask-app/static/web%20app%203.png)
 
 
 ## Como Contribuir
