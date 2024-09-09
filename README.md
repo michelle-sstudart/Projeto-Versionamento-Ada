@@ -85,4 +85,4 @@ Imagem na web do app
 [def]: image.png
 
 
-Autores: [Michelle Sindeaux](https://github.com/michelle-sstudart)
+## Autores: [Michelle Sindeaux](https://github.com/michelle-sstudart)
