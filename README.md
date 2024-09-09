@@ -19,9 +19,9 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
 ## Layout
 
 Imagem na web do app
-![Layout] img = Imagem.open(![layoutapp](<static/web app 1.png>))
-![Desenvolvendo] img = Imagem.open(![desenvolvendoapp](<static/web app 2.png>))
-![Concluído] img = Imagem.open(![concluidoapp](<static/web app 3.png>))
+[Layout] img = Imagem.open(![layoutapp](<static/web app 1.png>))
+[Desenvolvendo] img = Imagem.open(![desenvolvendoapp](<static/web app 2.png>))
+[Concluído] img = Imagem.open(![concluidoapp](<static/web app 3.png>))
 
 
 ## Como Contribuir
