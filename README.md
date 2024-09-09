@@ -69,8 +69,6 @@ Imagem na web do app
 8. No GitHub, abra um **pull request** para o repositório original, explicando suas modificações.
 
 
-
-
   ## **_Detalhes importantes:_**
   >Certifique-se de que o seu código está funcionando corretamente antes de abrir um pull request.
   >Siga os padrões de commit para garantir que as mensagens sejam claras e que facilitam o entendimento das alterações.
