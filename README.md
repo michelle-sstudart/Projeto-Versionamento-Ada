@@ -11,8 +11,8 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
 - Exibe as informações coletadas no terminal de forma clara e organizada.
 
 ## Tecnologias utilizadas
-- [Python 3.12.6](https://www.python.org/downloads/): Linguagem de progração utilizada para desenvolver o projeto.
-- [Visual Studio Code](https://code.visualstudio.com/Download): Interpretador do Python.
+- [Python 3.12.6](https://www.python.org/downloads/): Linguagem de programação utilizada para desenvolver o projeto.
+- [Visual Studio Code](https://code.visualstudio.com/Download): Interpretador do Python através do VSCode.
 
 
 ## Layout
