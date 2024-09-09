@@ -13,6 +13,7 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
 ## Tecnologias utilizadas
 - Python 3.12.6: Linguagem de programação utilizada para desenvolver o projeto.
 - Visual Studio Code: Interpretador do Python (com  uso de extensão no VsCode).
+- Flask: Framework para o desenvolvimento web.
 
 
 ## Layout
