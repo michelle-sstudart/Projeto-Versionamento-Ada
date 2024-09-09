@@ -23,16 +23,17 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
 ## Como Contribuir
 
 ### Pré-Requisitos
+
 [Python 3.12.6](https://www.python.org/downloads/),
 [Visual Studio Code](https://code.visualstudio.com/Download),
+[Flask](https://flask.palletsprojects.com/en/3.0.x/).
 
 
 1. Faça um **fork** do repostirório.
-
 2. Crie uma **nova branch** com a sua feature: *git checkout -b "minha-feature"*.
 3. Faça um commit das suas alterações: *git commit -m 'Adicionando uma nova feature'*.
 4. Faça um **push** para a branch: *git push origin minha-feauture*.
-5. Abra um **pull request** explicando suas modifiações.
+5. Abra um **pull request** explicando suas modificações.
 
   ## **_Detalhes importantes:_**
   >Certifique-se de que o seu código está funcionando corretamente antes de abrir um pull request.
