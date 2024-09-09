@@ -63,4 +63,3 @@ Ao contribuir para este projeto, você concorda que suas contribuições serão 
 ---
 
 Agradeço suas contribuições para o crescimento e aprimoramento deste projeto!
-
