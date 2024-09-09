@@ -37,25 +37,34 @@ Imagem na web do app
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 
 
-1. No GitHub, clique em Fork no topo direito da página do repositório para criar uma cópia no seu perfil.
+1. No GitHub, clique em Fork no topo direito da página do repositório para criar uma cópia no seu perfil
 
-2. CLone seu fork localmente. 
-![image](https://github.com/user-attachments/assets/4c5134c1-8df9-4dc4-914a-bbee7898dab5)
+2. CLone seu fork localmente.
+   ![image](https://github.com/user-attachments/assets/4c5134c1-8df9-4dc4-914a-bbee7898dab5)
+   
 
-3. Crie uma **nova branch** com a sua feature: *git checkout -b "minha-feature"*.
-![image](https://github.com/user-attachments/assets/e45ea65e-c70c-4bd9-9607-4c6bfe97215e)
+3. Crie uma **nova branch** com a sua feature: *git checkout -b "minha-feature"*
+   ![image](https://github.com/user-attachments/assets/e45ea65e-c70c-4bd9-9607-4c6bfe97215e)
+
 
 4. Faça as alterações necessárias no código e salve as mudanças.
 
-5. Adicione os arquivos alterados: *"git add ."* (ou nome do arquivo no lugar do ponto)
-   
-6. Faça um commit das suas alterações com uma mensagem clara e objetiva: *git commit -m 'Descrição das alterações'*.
-![image](https://github.com/user-attachments/assets/98d9359f-a8d2-4dc8-b941-045072ef14ec)
 
-7. Faça um **push** para a branch enviando as mudanças para o seu repositório: *git push origin minha-feature*.
-![image](https://github.com/user-attachments/assets/8d16d134-ae32-4dd1-9299-1acc947f4128)
+5. Adicione os arquivos alterados: *"git add ."* (ou nome do arquivo no lugar do ponto)
+
+   
+6. Faça um commit das suas alterações com uma mensagem clara e objetiva: *git commit -m 'Descrição das alterações'*
+   ![image](https://github.com/user-attachments/assets/98d9359f-a8d2-4dc8-b941-045072ef14ec)
+
+
+7. Faça um **push** para a branch enviando as mudanças para o seu repositório: *git push origin minha-feature*
+    ![image](https://github.com/user-attachments/assets/8d16d134-ae32-4dd1-9299-1acc947f4128)
+
 
 8. No GitHub, abra um **pull request** para o repositório original, explicando suas modificações.
+
+
+
 
   ## **_Detalhes importantes:_**
   >Certifique-se de que o seu código está funcionando corretamente antes de abrir um pull request.
