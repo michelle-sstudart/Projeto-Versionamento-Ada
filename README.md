@@ -41,3 +41,5 @@ O objetivo é treinar coleta de dados no terminal e exibir as informações de m
    # Licença
    Este projeto está sob a licença do MIT. Consulte a [LICENSE](https://github.com/michelle-sstudart/Projeto-Versionamento-Ada/blob/main/LICENSE)
   
+  # Diretrizes para contribuir
+  1. Siga as diretrizes do [CONTRIBUTING.md]
