@@ -1,0 +1,30 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configurações do bash e do terminal
+.bashrc
+.bash_profile
+.bash_history
+.bash_logout
+
+# Chaves e credenciais
+.credentials
+.aws/
+.ssh/
+
+# Logs
+*.log
+
+# Diretórios de configuração do VSCode e dependências
+.vscode/
+*.code-workspace
+
+# Node e outras dependências (se aplicável)
+node_modules/
+vendor/
+*.lock
+
+# Arquivos temporários
+*.tmp
+*.swp
