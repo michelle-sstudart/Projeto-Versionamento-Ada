@@ -70,8 +70,6 @@ Imagem na web do app
 
 9. Se aceito o Pull Request,está pronto! Você agora contribuiu com o GitHub.
 
-release/1.0
-
   ## **_Detalhes importantes:_**
   >Certifique-se de que o seu código está funcionando corretamente antes de abrir um pull request.
   >Siga os padrões de commit para garantir que as mensagens sejam claras e que facilitam o entendimento das alterações.
