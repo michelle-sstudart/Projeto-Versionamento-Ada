@@ -68,6 +68,9 @@ Imagem na web do app
 
 8. No GitHub, abra um **pull request** para o repositório original, explicando suas modificações.
 
+9. Se aceito o Pull Request,está pronto! Você agora contribuiu com o GitHub.
+
+release/1.0
 
   ## **_Detalhes importantes:_**
   >Certifique-se de que o seu código está funcionando corretamente antes de abrir um pull request.
